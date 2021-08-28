@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_hta_sale_qrcode_base,hta_sale_qrcode.hta_sale_qrcode,model_hta_sale_qrcode_hta_sale_qrcode,base.group_user,1,1,1,1
