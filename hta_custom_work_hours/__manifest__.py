@@ -20,7 +20,9 @@
     'version': '14.0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['ressource'],
+    'depends': ['hr',
+               'hr_work_entry',
+               ],
 
     # always loaded
     'data': [
